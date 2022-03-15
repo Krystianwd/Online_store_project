@@ -1,0 +1,5 @@
+Plik index:
+Dodać karuzelę na pierwszy obrazek
+Dodać responsywne elementy jquery typu karuzela, przeglądarka zdjęc, baner ze zdjęciami
+//////////[DODATKOWE]Ogarnąć dodawanie produktu do koszyka(JSON)
+//////////////////////////////////
